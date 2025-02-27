@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "marks": 1,
+        "multipleSelect": true,
+        "statement": "Choisis le(s) joueur(s) qui ont remplorté de ballon d'or pour une saison jouée au Real Madrid ?",
+        "choices": [
+            {
+                "answer": "Raymond Kopa",
+                "isCorrect": true
+            },
+            {
+                "answer": "Zinedine Zidane",
+                "isCorrect": false
+            },
+            {
+                "answer": "Karim Benzema",
+                "isCorrect": true
+            },
+            {
+                "answer": "Fabio Cannavaro",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "marks": 2,
+        "multipleSelect": false,
+        "statement": "Combien y a-t-il eu de papes jésuites ?",
+        "choices": [
+            {
+                "answer": "1",
+                "isCorrect": true
+            },
+            {
+                "answer": "2",
+                "isCorrect": false
+            },
+            {
+                "answer": "3",
+                "isCorrect": false
+            },
+            {
+                "answer": "4",
+                "isCorrect": false
+            }
+        ]
+    }
+]
